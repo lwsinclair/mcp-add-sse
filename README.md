@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/quantgeekdev-mcp-add-sse-badge.png)](https://mseep.ai/app/quantgeekdev-mcp-add-sse)
+
 # calculator
 [![smithery badge](https://smithery.ai/badge/@QuantGeekDev/mcp-add-sse)](https://smithery.ai/server/@QuantGeekDev/mcp-add-sse)
 
